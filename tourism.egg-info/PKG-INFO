@@ -1,0 +1,25 @@
+Metadata-Version: 2.2
+Name: tourism
+Version: 0.1
+Summary: 旅游相关的 Python 包
+Home-page: https://github.com/yourusername/tourism
+Author: 您的名字
+Author-email: your.email@example.com
+Requires-Python: >=3.6
+Requires-Dist: streamlit>=1.0.0
+Requires-Dist: pandas>=1.0.0
+Requires-Dist: numpy>=1.19.0
+Requires-Dist: plotly>=4.14.0
+Requires-Dist: folium>=0.12.0
+Requires-Dist: pyjwt>=2.0.0
+Requires-Dist: requests>=2.25.0
+Requires-Dist: marshmallow>=3.14.0
+Requires-Dist: sqlalchemy>=1.4.0
+Requires-Dist: bcrypt>=3.2.0
+Requires-Dist: python-dotenv>=0.19.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
